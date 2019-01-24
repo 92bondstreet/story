@@ -19,6 +19,8 @@ any idea
 * no author
 * no reason
 
+---
+
 unclear
 
 ---
@@ -96,6 +98,9 @@ A Story or a Narrative
 * une situation initiale
 * un élément déclencheur
 * les actions
+
+---
+
 * un dénouement
 * une situation finale
 
